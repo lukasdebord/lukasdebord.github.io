@@ -68,13 +68,13 @@ To run the portfolio locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/lukasdebord/lukasdebord.github.io
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-portfolio
+   cd lukasdebord.github.io
    ```
 
 3. Open the project in your code editor.
